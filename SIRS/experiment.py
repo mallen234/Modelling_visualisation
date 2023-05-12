@@ -4,7 +4,7 @@ from numpy.random import rand
 from matplotlib import pyplot as plt
 from matplotlib import animation
 import sys
-from Lattice import Lattice
+from lattice import Lattice
 
 def main():
     p2 = 0.5

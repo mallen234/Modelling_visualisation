@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 from matplotlib import animation
 import sys
 import subprocess
-from Lattice import Lattice
+from lattice import Lattice
 
 # p1,p2,p3 = 0.8,0.1,0.01     THIS IS FOR WAVES
 # p1,p2,p3 = 0.5,0.5,0.5
